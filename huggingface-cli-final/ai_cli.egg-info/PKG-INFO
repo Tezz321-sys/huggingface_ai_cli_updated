@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ai-cli
+Version: 2.0.0
+License-File: LICENSE
+Requires-Dist: google-generativeai
+Requires-Dist: pillow
+Dynamic: license-file
+Dynamic: requires-dist
